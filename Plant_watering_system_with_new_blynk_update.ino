@@ -1,5 +1,5 @@
 /*Plant watering system with new blynk update
-   https://srituhobby.com
+   
 */
 //Include the library files
 #include <LiquidCrystal_I2C.h>
